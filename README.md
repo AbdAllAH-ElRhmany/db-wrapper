@@ -7,14 +7,14 @@ DbWrapper is a small php wrapper for mysql databases.
 install once with composer:
 
 ```
-composer require sqldb_Helper\DbWrapper
+composer require nea76515\DbWrapper
 ```
 
 then add this to your project:
 
 ```php
 require __DIR__ . '/vendor/autoload.php';
-use sqldb_Helper\DbWrapper\DbWrapper;
+use nea76515\DbWrapper\DbWrapper;
 $db = new DbWrapper();
 ```
 

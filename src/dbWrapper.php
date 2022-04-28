@@ -2,7 +2,7 @@
  
 
 //  include "environment.php";
-namespace sqldb_Helper\DbWrapper;
+namespace nea76515\DbWrapper;
  
 class DbWrapper{
     public $onnection;
